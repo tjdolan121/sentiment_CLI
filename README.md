@@ -12,7 +12,7 @@
 
 NOTE: Project requires Python 3
 
-STEP 1: Clone the project (in the terminal): ```git clone git@github.com:tjdolan121/sentiment_cli.git```
+STEP 1: Clone the project (in the terminal): ```git clone git@github.com:tjdolan121/sentiment_CLI.git```
 
 STEP 2: Create a new virtual environment: ```virtualenv venv```
 
