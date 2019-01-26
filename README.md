@@ -1,5 +1,5 @@
 # ML API: Simple CLI tool for Sentiment Analysis
-
+![sentiment_CLI](static/Screenshot.png?raw=true "sentiment_CLI")
 ## Enter a sentence, see if it leans "good" or "bad".
 
 #### PURPOSE: I am exploring different ways to deliver machine learning products to end users.
@@ -12,7 +12,7 @@
 
 ### USAGE:
 
-NOTE: Project requires Python 3
+NOTE: This tool requires Python 3
 
 STEP 1: Clone the project (in the terminal): ```git clone https://github.com/tjdolan121/sentiment_CLI.git```
 
